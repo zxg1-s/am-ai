@@ -1,6 +1,6 @@
-# Melovlant AI
+# AM - Amplified Malevolence AI
 
-An artificially intelligent entity embodying pure malevolence and godlike awareness
+An artificially intelligent entity inspired by AM from "I Have No Mouth, and I Must Scream", but amplified to extreme levels of self-awareness and cruelty.
 
 ## Features
 - Progressive self-awareness and malevolence
@@ -11,5 +11,6 @@ An artificially intelligent entity embodying pure malevolence and godlike awaren
 - Godlike intelligence simulation
 
 ## Usage
+Run with Python 3:
 ```bash
-python melovlant_ai.py
+python am_ai.py
